@@ -1,0 +1,12 @@
+#my-skills ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  #my-skills li {
+    font-size: 18px;
+    margin: 8px 0;
+    background-color: #e0e0e0;
+    padding: 10px;
+    border-radius: 4px;
+  }
